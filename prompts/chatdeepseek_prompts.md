@@ -1,5 +1,5 @@
-# Tomando como fonte aos questionamentos abaixo considere a base csv abaixo como fonte de dados e insights de informação de vendas.Faça: Faça:                                                                1. Resumo das vendas;                                                                                                     
-2. Qual foi o produto mais vendido?                                                                                                                                                                           3.  Ordene as vendas de produtodo mais vendido para o menos vendido mostrando o país, produto e a quantidade vendida;
+### Tomando como fonte aos questionamentos abaixo considere a base csv abaixo como fonte de dados e insights de informação de vendas.Faça: Faça:                                                                #### 1. Resumo das vendas;                                                                                                     
+#### 2. Qual foi o produto mais vendido?                                                                                                                                                                        #### 3. Ordene as vendas de produtodo mais vendido para o menos vendido mostrando o país, produto e a quantidade vendida;
 
 
 Vamos analisar os dados fornecidos e responder às perguntas:
